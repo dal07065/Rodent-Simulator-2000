@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Mainmenu.unity
+    guid: c8489365fd5f890448066c5b70dddd2c
+  - enabled: 1
+    path: Assets/Scenes/MazeShaded(FinalEdit).unity
+    guid: 6c5222cb3f069b544a895158980b82bd
+  - enabled: 1
+    path: Assets/Scenes/EndingScene.unity
+    guid: b55d43723e011cc42a639ed47b6dc707
+  - enabled: 0
+    path: Assets/Scenes/MazeDucky3D.unity
+    guid: b5f34249e22e7bb42b5cab410d64d1d8
+  - enabled: 0
+    path: Assets/Scenes/MazeFlatShading.unity
+    guid: 4a25dd014dd54d04b97e6910e269007f
+  m_configObjects: {}
